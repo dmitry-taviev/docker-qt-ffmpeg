@@ -1,4 +1,4 @@
-FROM smart-opencv
+FROM 944590742144.dkr.ecr.eu-west-1.amazonaws.com/apply/smart-opencv
 MAINTAINER Rihards Grichkus "rihards.grichkus@applyit.lv"
 
 #Copy ffmpeg dependencies
